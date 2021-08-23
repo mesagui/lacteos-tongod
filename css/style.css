@@ -443,21 +443,6 @@ li {
   }
 }
 
-/**********************/
-/*     Newsletter     */
-/**********************/
-.form-control-input,
-.form-control-textarea {
-  width: 100%;
-  appearance: none;
-  border-radius: 4px;
-  font-size: 0.875rem;
-  line-height: 1.5rem;
-  padding-left: 1.5rem;
-  padding-top: 0.775rem;
-  padding-bottom: 0.775rem;
-}
-
 /******************************/
 /*     Back To Top Button     */
 /******************************/
@@ -502,7 +487,7 @@ li {
 /*     Extra Pages     */
 /***********************/
 .ex-header {
-  padding-top: 8.5rem;
+  padding-top: 4.5rem;
   padding-bottom: 4rem;
   background-color: var(--primary);
 }
