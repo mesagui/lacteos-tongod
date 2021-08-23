@@ -327,8 +327,12 @@ li {
 /*     Productos     */
 /************************/
 .slider-1 {
-  padding-top: 8.25rem;
-  padding-bottom: 8.5rem;
+  padding-top: 4.25rem;
+  padding-bottom: 4.5rem;
+}
+
+.centrar-text {
+  text-align: center;
 }
 
 .slider-1 .section-title {
